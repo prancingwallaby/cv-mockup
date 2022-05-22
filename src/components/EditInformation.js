@@ -33,7 +33,7 @@ class EditInformation extends Component {
                 <input type="date"></input>
                 <label>Date Ended</label>
                 <input type="date"></input>
-                <button type="submit">Submit</button>
+                <button type="submit">Add Work Item</button>
             </div>
       </div>
     );
