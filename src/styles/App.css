@@ -1,0 +1,21 @@
+input {
+  margin:1rem;
+  border-radius: .3rem;
+}
+
+button {
+  border-radius: .5rem;
+  padding: .2rem;
+}
+
+.appBody {
+  background-color: gray;
+  display:flex;
+  flex-direction: column;
+  gap: 5rem;
+  padding: 1rem;
+}
+
+.infoInput {
+  padding: 1rem;
+}
